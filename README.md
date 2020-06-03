@@ -6,7 +6,7 @@
 
 ## General description:
 
-General description of proposed solution in few lines.
+An app to control overoccupancy in the buses post COVID-19. Timetable/schedule of the buses for the ease of passengers will be provided. There will be options of online bookingof seats,e-tickets, admin account for each driver/conductor to uncheck the seats that were previously booked by the passengers who could not somehow board the bus. More options like stop requesting will be made available.
 
  
 ## Novelty / Uniqueness:
@@ -16,7 +16,7 @@ What is the uniqueness/novelty added by you to the defined problem statement?
  
 ## Business / Social Impact:
 
-How is the proposed solution impacting the business? How is the business processes simplified or bringing value over the existing process?
+The proposed solution will be able to monitor the number of passenders in a bus (maintaining socila distancing).The given schedule of each bus timing will prove to be beneficial for people to plan their journey in advance. From the business point of view, there will be a high demand in the rise of number of busessince the number of passengers in each bus will be reduced. And, on the social front, the app will come handy in everyday use since it will keep a check on overoccupancy and social distancing.
 
  
 ## Technology Stack:
