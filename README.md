@@ -21,6 +21,13 @@ An app to control overoccupancy in public transport post COVID-19. Timetable/sch
 - Users will have to show that dialog to conductor/driver of the BUS for their successful entry.
 - The App will automatically update the seat as VACANT as soon as users will reach their destination.
 
+### Additional features of the App (Admin's Pannel)
+
+- There will be a different app for Admins ( Conductor and Drivers of BUSES )
+- Admins can mark the seat as VACANT if a person booked a seat and doesn't appear on the STOP.
+- They can mark a seat as VACANT if a passenger depart on middle of his/her journey.
+- They can mark a SEAT as OCCUPIED if in case a person couldn't book a seat somehow and he/she needs one in the BUS ( provided there are already VACANT seats present in the BUS ).
+
  
 ## Novelty / Uniqueness:
 The App Provide So much of features but in intial phase there
