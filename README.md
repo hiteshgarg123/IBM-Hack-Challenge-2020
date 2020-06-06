@@ -2,8 +2,6 @@
 
 ## Solution for IBM Hack challenge 2020
 
-## Guidlines...
-
 ## General description:
 
 An app to control overoccupancy in public transport post COVID-19. Timetable/schedule of the buses for the ease of passengers will be provided. Passengers will have to book their seats from the app in order to travel as there will be limited no. of seats.
