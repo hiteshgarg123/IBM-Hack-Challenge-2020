@@ -11,7 +11,7 @@ An app to control overoccupancy in public transport post COVID-19. Timetable/sch
 ### Working of the App
 
 - Users will choose the source and destination location in the app.
-- They will be presented with different transport options like BUSES and TRAINS ( TO be implemented ).
+- They will be presented with different transport options like BUSES and TRAINS ( To be implemented ).
 - Users will see the list of BUSES connecting source and destination through different routes.
 - They can choose the BUS as per their convenience.
 - After choosing the BUS they will be presented with the Route Map of that BUS.
