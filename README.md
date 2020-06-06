@@ -6,7 +6,10 @@
 
 ## General description:
 
-An app to control overoccupancy in the buses post COVID-19. Timetable/schedule of the buses for the ease of passengers will be provided. There will be options of online booking of seats,e-tickets, admin account for each driver/conductor to uncheck the seats that were previously booked by the passengers who could not somehow board the bus. More options like stop requesting will be made available.
+An app to control overoccupancy in public transport post COVID-19. Timetable/schedule of the buses for the ease of passengers will be provided. Passengers will have to book their seats from the app in order to travel as there will be limited no. of seats.
+
+### Working of the App
+
 
  
 ## Novelty / Uniqueness:
