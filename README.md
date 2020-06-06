@@ -42,7 +42,7 @@ The proposed solution will be able to monitor the number of passengers in a bus 
  
 ## Technology Stack:
 
-Architectural flow of the proposed solution, with the mention of technologies to be used in developing the solution.
+Architectural flow of the proposed solution.
 
 ![](SMART_App.png)
 
