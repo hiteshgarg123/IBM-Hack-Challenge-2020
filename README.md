@@ -42,7 +42,16 @@ The proposed solution will be able to monitor the number of passengers in a bus 
  
 ## Technology Stack:
 
-Architectural flow of the proposed solution.
+### Technologies used: 
+
+#### For Frontend
+- Flutter 
+
+#### For Backend
+- Google firebase
+(or any other database)
+
+### Architectural flow of the proposed solution.
 
 ![](SMART_App.png)
 
