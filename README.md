@@ -10,6 +10,16 @@ An app to control overoccupancy in public transport post COVID-19. Timetable/sch
 
 ### Working of the App
 
+- Users will choose the source and destination location in the app.
+- They will be presented with different transport options like BUSES and TRAINS ( TO be implemented ).
+- Users will see the list of BUSES connecting source and destination through different routes.
+- They can choose the BUS as per their convenience.
+- After choosing the BUS they will be presented with the Route Map of that BUS.
+- Users can see the current location of BUS ( On which stop BUS is currently present ) and time taken by it to REACH their STOP.
+- Users then will be provided with "BOOK A SEAT" button and they can view the Seat Map of the BUS with VACANT and OCCUPIED seats.
+- After booking a SEAT they will get a confirmation dialog.
+- Users will have to show that dialog to conductor/driver of the BUS for their successful entry.
+- The App will automatically update the seat as VACANT as soon as users will reach their destination.
 
  
 ## Novelty / Uniqueness:
