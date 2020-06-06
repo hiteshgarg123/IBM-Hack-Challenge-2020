@@ -36,6 +36,8 @@ The proposed solution will be able to monitor the number of passengers in a bus 
 
 Architectural flow of the proposed solution, with the mention of technologies to be used in developing the solution.
 
+![](SMART_App.png)
+
  
 ## Scope of Work:
 
