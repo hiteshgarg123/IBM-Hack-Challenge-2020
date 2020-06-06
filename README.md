@@ -37,7 +37,7 @@ The App will provide so many features but in intial phase there will be followin
  
 ## Business / Social Impact:
 
-The proposed solution will be able to monitor the number of passengers in a bus (maintaining social distancing).The given schedule of each bus timing will prove to be beneficial for people to plan their journey in advance. From the business point of view, there will be a high demand in the rise of number of buses since the number of passengers in each bus will be reduced. And, on the social front, the app will come handy in everyday use since it will keep a check on overoccupancy and social distancing.
+The proposed solution will be able to monitor the number of passengers in a bus (maintaining social distancing).The given schedule of each bus timing will prove to be beneficial for people to plan their journey in advance. From the business point of view, there will be a high demand in the rise of number of buses since the number of passengers in each bus will be reduced. Also there will be hike in fare of buses (as less no. of passengers will be travelling)  And, on the social front, the app will come handy in everyday use since it will keep a check on overoccupancy and social distancing.
 
  
 ## Technology Stack:
