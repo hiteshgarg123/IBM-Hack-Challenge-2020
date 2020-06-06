@@ -20,6 +20,7 @@ An app to control overoccupancy in public transport post COVID-19. Timetable/sch
 - After booking a SEAT they will get a confirmation dialog.
 - Users will have to show that dialog to conductor/driver of the BUS for their successful entry.
 - The App will automatically update the seat as VACANT as soon as users will reach their destination.
+- Additionally users can request for a stop.
 
 ### Additional features of the App (Admin's Pannel)
 
