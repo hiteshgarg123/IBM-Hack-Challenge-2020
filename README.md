@@ -29,7 +29,6 @@ An app to control overoccupancy in public transport post COVID-19. Timetable/sch
 
  
 ## Novelty / Uniqueness:
-The App will provide so many features but in intial phase there will be following features:-<br/>
 
 - Uniquness of the solution lies in the fact that only limited no. of users will be able to book the seats in the BUS ( as the app will reflect limited no. of seats only ) and entry in the BUSES will be allowed only if a person has booked a seat in the app successfully. This will avoid any kind of over-occupancy in the Transport.
 
