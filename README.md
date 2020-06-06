@@ -53,8 +53,8 @@ The idea is to make ease of transportaton Post-Lockdown and our app try all it's
 make it possible.
 
 ### Timeline:-
-The first phase(base version) require the time of almost 20-25 day to make the beta tester of the App.
-In the initial phase there will some limited feature by time we will add some features and effieciency to the app.
-
-The App can be more user-friendly and improvements in the user-interfaces will be made!
+- The first version of the app can be crafted in 25-30 days depending upon the number of features that will be added.
+- In the initial phase there will be limited no. of features. 
+- Later more features will be added tn the app and overall performance will be enhanced.
+- The UI of the app will be user friendly so it can drag more user engagement and people will use it flawlessly.
 
