@@ -49,5 +49,12 @@ Architectural flow of the proposed solution.
  
 ## Scope of Work:
 
-Define the scope of work to be implemented in the project with modules etc.
+The idea is to make ease of transportaton Post-Lockdown and our app try all it's best to 
+make it possible.
+
+### Timeline:-
+The first phase(base version) require the time of almost 20-25 day to make the beta tester of the App.
+In the initial phase there will some limited feature by time we will add some features and effieciency to the app.
+
+The App can be more user-friendly and improvements in the user-interfaces will be made!
 
